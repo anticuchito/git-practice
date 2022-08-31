@@ -12,10 +12,10 @@ Describe que hacen los siguientes comandos de git, escribe su descripcion al fre
 
 `git branch`: git branch sirve para listar las ramas que existen actualmente de forma local
 
-`git add`:git add sirve para añadir los cambios hechos en el archivo ya sea de un solo archivo o de todos los archivos para añadirlos a la zona de stagging
+`git add`: git add sirve para añadir los cambios hechos en el archivo ya sea de un solo archivo o de todos los archivos para añadirlos a la zona de stagging
 
 `git commit`: git commit sirve para añadir los ultimos cambios al repositorio.
 
 `git push`: git push es un comando que envia los ultimos cambios guardados de forma local a traves de los commits para enviarselos al repositorio remoto
 
-git merge:git merge sirve para unir dos ramas que estan de forma local en nuestro repositorio local
+'`git merge`: git merge sirve para unir dos ramas que estan de forma local en nuestro repositorio local
